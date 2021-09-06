@@ -1,0 +1,42 @@
+{
+    "user1": {
+        "username": "sneha,",
+        "password": "thakur"
+    },
+    "user2": {
+        "username": "sneha,",
+        "password": "thakur"
+    },
+    "user3": {
+        "username": "sneha1,",
+        "password": "thakur1"
+    },
+    "user4": {
+        "username": "sneha2,",
+        "password": "thakur2"
+    },
+    "user5": {
+        "username": "sneha2,",
+        "password": "thakur2"
+    },
+    "user6": {
+        "username": "sneha3,",
+        "password": "thakur3"
+    },
+    "user7": {
+        "username": "sneha5,",
+        "password": "thakur5"
+    },
+    "user8": {
+        "username": "sneha6,",
+        "password": "thakur6"
+    },
+    "user9": {
+        "username": "sneha7,",
+        "password": "thakur7"
+    },
+    "user10": {
+        "username": "aaa,",
+        "password": "bbb"
+    }
+}
